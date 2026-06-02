@@ -75,31 +75,86 @@ class BackendEngineer:
 
 ---
 
-# Tech Stack
+## ⚡ Tech Stack
 
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,Java,Javascript" />
-</p>
-
-## Databases
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css" />
 </p>
 
-## Cloud & DevOps
+### 🚀 Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
-## Development Tools
+**Backend Skills**
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+* JWT Authentication
+* OAuth2
+* API Security
+* Role-Based Access Control (RBAC)
+* Rate Limiting
+* Pagination
+* Backend Architecture
+* Django ORM
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+* MySQL
+* PostgreSQL
+* Redis
+* Database Design
+* Query Optimization
+* Data Modeling
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions" />
+</p>
+
+* AWS EC2
+* AWS RDS
+* AWS S3
+* Docker
+* Nginx
+* Gunicorn
+* Linux
+* GitHub Actions
+* CI/CD Pipelines
+
+### 🔧 Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+* Git
+* GitHub
+* Postman
+* Swagger/OpenAPI
+* VS Code
+
+### 📚 Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+* System Design Basics
+* Software Engineering Principles
+
 
 ---
 
