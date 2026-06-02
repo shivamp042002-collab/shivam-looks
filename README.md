@@ -1,23 +1,53 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam Pandey
+# Shivam Pandey
 
 ### Backend Engineer | Django Developer | AWS Cloud Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+AWS;Building+Production+Ready+Applications;Docker+%7C+Redis+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+Building scalable backend systems, secure REST APIs, and cloud-native applications using Python, Django, AWS, and Docker.
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Engineer;Python+%7C+Django+%7C+DRF;AWS+Cloud+%7C+Docker+%7C+Linux;Building+Production+Ready+Applications;API+Design+%7C+Authentication+%7C+Security" />
+</p>
+
+<p align="center">
+<a href="mailto:shivamp042002@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/shivam-pandey-65768837">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/shivamp042002-collab">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# About Me
 
 ```python
-class ShivamPandey:
+class BackendEngineer:
 
-    role = "Backend Developer"
+    name = "Shivam Pandey"
 
-    skills = [
+    role = "Backend Engineer"
+
+    location = "Mumbai, India"
+
+    specialization = [
+        "Backend Development",
+        "REST API Design",
+        "Cloud Deployment",
+        "Database Engineering",
+        "Application Security"
+    ]
+
+    technologies = [
         "Python",
         "Django",
         "Django REST Framework",
@@ -28,62 +58,44 @@ class ShivamPandey:
         "Redis"
     ]
 
-    currently_learning = [
-        "System Design",
-        "Microservices",
-        "Advanced AWS"
-    ]
-
-    goal = "Build scalable backend systems used by thousands of users"
+    mission = "Building reliable and scalable software solutions."
 ```
 
 ---
 
-## 🌐 Connect With Me
+# Engineering Highlights
 
-<p align="left">
-<a href="mailto:shivamp042002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/shivam-pandey-65768837">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/shivamp042002-collab">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+* Designed and deployed production-ready web applications on AWS.
+* Developed secure REST APIs using Django REST Framework.
+* Implemented JWT Authentication and Role-Based Access Control.
+* Dockerized applications for reproducible deployments.
+* Configured Nginx and Gunicorn in Linux production environments.
+* Built database-driven applications with MySQL and PostgreSQL.
+* Mentored 50+ students in backend development and software engineering.
 
 ---
 
-## ⚒️ Tech Stack
+# Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
-</p>
-
-### Backend
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask" />
+<img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-### Database
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 </p>
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
 </p>
 
-### Tools
+## Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -91,132 +103,167 @@ class ShivamPandey:
 
 ---
 
-## 💼 Professional Experience
+# Featured Projects
 
-### Backend Development Instructor & Technical Mentor
+## ConnectPro — Full Stack Job Portal
 
-📍 IP Academy
+Production-ready job portal built with Django REST Framework and deployed on AWS.
 
-* Mentored 50+ students in Python, Django and Backend Development
-* Conducted code reviews and debugging sessions
-* Trained students on REST APIs and Database Design
-* Guided deployment workflows using Linux and AWS
+### Architecture
+
+Client
+↓
+Nginx
+↓
+Gunicorn
+↓
+Django REST API
+↓
+MySQL / AWS RDS
+
+### Key Features
+
+* JWT Authentication
+* Role-Based Access Control
+* Job Management System
+* Candidate Tracking
+* Recruiter Dashboard
+* Secure REST APIs
+* Docker Deployment
+* AWS Infrastructure
+
+### Tech Stack
+
+Python • Django • DRF • Docker • AWS EC2 • AWS RDS • MySQL • JWT
+
+### Repository
+
+YOUR_CONNECTPRO_LINK
+
+### Live Demo
+
+YOUR_LIVE_DEMO_LINK
 
 ---
 
-## 🚀 Featured Projects
+## E-Commerce Backend System
 
-### ConnectPro — Full Stack Job Portal
+Backend architecture supporting products, carts, orders, filtering, pagination, and user management.
 
-#### Highlights
+### Features
 
-✅ JWT Authentication
-
-✅ Role Based Access Control
-
-✅ AWS EC2 Deployment
-
-✅ AWS RDS Integration
-
-✅ Dockerized Infrastructure
-
-✅ Secure REST APIs
-
-✅ Nginx + Gunicorn Setup
-
-#### Tech Stack
-
-Python • Django • DRF • AWS • Docker • MySQL
-
----
-
-### E-Commerce Backend
-
-* Product Management APIs
-* Cart System
-* Order Management
+* Product APIs
+* Cart Management
+* Order Processing
 * Search & Filtering
 * Pagination
 * Authentication
+* Authorization
 
-Tech:
+### Tech Stack
+
 Python • Django • DRF • MySQL
 
 ---
 
-### Multi-threaded Port Scanner
+## Multi-threaded Port Scanner
+
+Network utility built using Python sockets and multithreading.
+
+### Features
 
 * Concurrent TCP Scanning
-* Multithreading
 * Timeout Handling
 * Performance Optimization
+* Port Discovery
+* Scan Validation
 
-Tech:
-Python • Socket Programming
+### Tech Stack
+
+Python • Socket Programming • Multithreading
 
 ---
 
-## 📊 GitHub Analytics
+# Professional Experience
+
+## Backend Development Instructor & Technical Mentor
+
+### IP Academy
+
+* Delivered Python and Backend Development training.
+* Conducted Django and REST API workshops.
+* Mentored students on Linux, Git, Databases, and Deployment.
+* Reviewed code and guided project implementation.
+* Trained over 50 students through practical projects.
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamp042002-collab&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamp042002-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamp042002-collab&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamp042002-collab&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shivamp042002-collab&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# Open Source & Learning
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivamp042002-collab&theme=tokyonight" />
-</p>
+Currently exploring:
+
+* Distributed Systems
+* System Design
+* PostgreSQL Optimization
+* Redis Caching
+* Microservices Architecture
+* Kubernetes
+* AWS Solution Architecture
 
 ---
 
-## 🐍 Contribution Snake
+# Certifications
+
+* AWS Cloud Practitioner (In Progress)
+* Backend Development Certification
+* Python Programming Certification
+
+---
+
+# Current Focus
 
 ```yaml
-Enable using GitHub Actions:
-Platane/snk
+Backend Development: ████████████ 95%
+Django & DRF:        ████████████ 95%
+AWS Cloud:           ██████████░░ 80%
+Docker:              ██████████░░ 85%
+System Design:       ███████░░░░░ 65%
+Kubernetes:          ████░░░░░░░░ 30%
 ```
 
-After setup:
-
-![Snake animation](https://github.com/shivamp042002-collab/shivamp042002-collab/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
-## 🏆 Achievements
+# 2026 Engineering Goals
 
-🏅 Built production-ready applications on AWS
-
-🏅 Developed secure REST APIs with JWT Authentication
-
-🏅 Mentored 50+ students in Backend Development
-
-🏅 Experience with Docker, Linux & Cloud Deployment
-
-🏅 Strong understanding of API Security & System Design
-
----
-
-## 🎯 2026 Goals
-
-* Master AWS Solution Architecture
+* Build SaaS Products
+* Master AWS Architecture
 * Learn Kubernetes
 * Contribute to Open Source
-* Build SaaS Products
-* Crack Backend Developer Role
+* Deep Dive into System Design
+* Build High-Traffic Applications
 
 ---
 
 <div align="center">
 
-### ⭐ Building Scalable Backend Systems One API At A Time
+### Building Scalable Backend Systems One API At A Time
 
-<img src="https://komarev.com/ghpvc/?username=shivamp042002-collab&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shivamp042002-collab&label=Profile+Views&style=for-the-badge"/>
 
 </div>
