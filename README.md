@@ -1,4 +1,4 @@
-ko<div align="center">
+<div align="center">
 
 # Shivam Pandey
 
