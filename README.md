@@ -80,7 +80,7 @@ class BackendEngineer:
 ## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=python,django,Java,Javascript" />
 </p>
 
 ## Databases
